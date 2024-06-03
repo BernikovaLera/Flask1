@@ -1,0 +1,9 @@
+{
+    "autor": {
+        "id": 1,
+        "name": "Nick"
+    },
+    "id": 2,
+    "raiting": 3,
+    "text": "Tom`s quote-2"
+}
